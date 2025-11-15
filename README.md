@@ -185,10 +185,6 @@ When contributing:
 4. Update documentation
 5. Test on multiple GPU architectures if possible
 
-## License
-
-[Add your license here]
-
 ## Acknowledgments
 
 This template follows PyTorch best practices and is designed for production use.
